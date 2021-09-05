@@ -1,2 +1,2 @@
 # STEPin-SanakeGame
-The project is building snake game using c language.
+# The project is building snake game using c language.
